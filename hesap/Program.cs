@@ -8,7 +8,7 @@ namespace hesap
         {
 
         }
-       //Test
+       
         public class Dikdortgen
         {
             int b;
